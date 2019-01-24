@@ -6,4 +6,4 @@ This project presents a simulation platform for cooperative aerial surveillance 
 
 Details about the project can be found in the following publication:
 
-[Simulation of Multi-UAV Cooperative Surveillance Using Pogamut and USARSim](https://is.cuni.cz/webapps/zzp/detail/146460/)
+[Simulation of Multi-UAV Cooperative Surveillance Using Pogamut and USARSim](https://is.cuni.cz/webapps/zzp/detail/146460/?lang=en)
